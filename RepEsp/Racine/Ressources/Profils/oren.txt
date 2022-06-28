@@ -1,0 +1,5 @@
+Nblvl:3
+Nbcartesajout:3
+LastJourConnection:13/05/2022/03
+Lecturedone:true
+JourApp:0
